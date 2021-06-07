@@ -1,0 +1,19 @@
+.navbar-li{
+	display: inline-block;
+	margin-left:  20px;
+}
+nav {
+	display: inline-block;
+}
+.box {
+	background: red;
+	display: inline-block;
+	vertical-align: middle;
+}
+.image {
+	height: 50px;
+}
+.text {
+	display: inline-block;
+	width: 500px;
+}
